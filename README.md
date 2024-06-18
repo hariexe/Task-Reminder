@@ -25,7 +25,7 @@ Task Reminder adalah aplikasi manajemen tugas yang membantu pengguna untuk menga
    cd task-reminder-and-management
    ```
 
-2. Buat lingkungan virtual
+2. Buat virtual environment
   ```
   python -m venv venv
   source venv/bin/activate # Untuk pengguna Unix
